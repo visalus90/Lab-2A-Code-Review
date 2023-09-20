@@ -29,10 +29,10 @@ He covered quality code in a way that only showed the important information, lea
 
 <h2>My Checklist Revised</h2>
 ### Article links
-1. https://www.indeed.com/career-advice/career-development/what-is-code-quality
-2. https://www.parasoft.com/solutions/code-quality/
-3. https://www.linkedin.com/advice/1/how-do-you-ensure-your-code-quality-functional
-4. https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf2f1673a7
+1. https://www.indeed.com/career-advice/career-development/what-is-code-quality <br>
+2. https://www.parasoft.com/solutions/code-quality/ <br>
+3. https://www.linkedin.com/advice/1/how-do-you-ensure-your-code-quality-functional <br>
+4. https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf2f1673a7 <br>
 
 ### Article Summarization Checklist
     - Functional
@@ -42,7 +42,7 @@ He covered quality code in a way that only showed the important information, lea
     - Easy to understand
       - [ ] // Notes so others can understand
       - [ ] Can someone easily navigate your code without confusion
-        - Notes allow others working on the project to understand what was done. Easy-to-navigate code allows for changes, improvements, and reusability. 
+        - Notes allow others working on the project to understand what was done. Easy-to-navigate code allows for changes, improvements, reusability, and portability. 
     - Meets clients' needs
       - [ ] Was testing done
       - [ ] Does the code work and operate as intended for the client
@@ -51,6 +51,18 @@ He covered quality code in a way that only showed the important information, lea
       - [ ] Does it run without error
       - [ ] Well documented
         - Errors in the code can lead to serious vulnerabilities in software. These errors allow outside sources to obtain private information which can affect the client and their customers. Well-documented code is a major component of a development process. Not only does it allow others to understand what you did also helps with securing the code
-    - code-checking tool
+    - Reviews
+      - [ ] Have peers review code
+        - Having peers review your code helps improve accelerate and stable code
+    - Code-checking tool
       - [ ] Used available tools to check code
         - Code-checking tools help improve your code. Running as you code helps improve the quality and keep the code clean
+    - Style
+      - [ ] Did you use a style guide
+      - [ ] Did you use modular coding
+        - Style guides help improve the layout of your code. It can be either an existing or a style guide of your own. Code that is modular is clean. When using PHP code, breaking it down into smaller pieces keeps it reusable. This kind of PHP code has a single responsibility and is independent. Using code this way makes it easier to test and maintain. 
+
+### Evaluate my Work
+On a scale of 1 to 5, I would give myself a 2. <br>
+However, I believe I improved since the last lab. I honestly still have trouble understanding how the instructions are written. Which is affecting my overall progress as I've been an A student in my past classes.<br>
+This type of reading learning isn't my strong suit and is a challenge as it is part of my learning ability.<br>
