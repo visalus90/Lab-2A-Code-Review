@@ -23,12 +23,12 @@ I feel this approach doesn't teach the user about quality code and expects the u
 My checklist contains too much information missing the point of a checklist. I think it is missing the checklist component and is more of a read than a checklist.<br>
 Even though my checklist had information that wasn't required. This checklist tried to cover everything (For example "Names are spelled correctly"), which is too much and can cause the user to miss the important components. <br>
 
-<h2>Pick out of the Three</h2>
+<h2>Pick one of the Three</h2>
 If I was to choose one out of the three. I would choose link 1. Even though I felt that the information was geared more toward someone who knows coding, it was written in a way that was easily understood. <br>
-He covered quality code in a way that only showed the important information, leaving out common sense. Examples were given to help users understand and navigate their own code, injecting his opinions so the user could understand his experience.
+He covered quality code in a way that only showed the important information, leaving out common sense. Examples were given to help users understand and navigate their own code, injecting their opinions so the user could understand his experience.
 
 <h2>My Checklist Revised</h2>
-### Article links
+### Article links <br>
 1. https://www.indeed.com/career-advice/career-development/what-is-code-quality <br>
 2. https://www.parasoft.com/solutions/code-quality/ <br>
 3. https://www.linkedin.com/advice/1/how-do-you-ensure-your-code-quality-functional <br>
